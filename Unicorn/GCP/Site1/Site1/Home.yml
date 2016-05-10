@@ -1,0 +1,208 @@
+﻿---
+ID: "846cca62-db13-4d17-8bf2-312278552332"
+Parent: "e4da74e2-9293-4528-9e29-ccb784771113"
+Template: "76036f5e-cbce-46d1-af0a-4143f9b557aa"
+Path: /sitecore/content/Site1/Home
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/16x16/home.png
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{43222D12-08C9-453B-AE96-D406EBB95126}"
+          s:cac="0"
+          s:cnd=""
+          s:mvt=""
+          s:vbd="0"
+          s:vbdev="0"
+          s:vbl="0"
+          s:vbp="0"
+          s:vbqs="0"
+          s:vbu="0" />
+        <r
+          uid="{CF044AD9-0332-407A-ABDE-587214A2C808}"
+          s:cac="0"
+          s:cnd=""
+          s:mvt=""
+          s:vbd="0"
+          s:vbdev="0"
+          s:vbl="0"
+          s:vbp="0"
+          s:vbqs="0"
+          s:vbu="0" />
+        <r
+          uid="{B343725A-3A93-446E-A9C8-3A2CBD3DB489}"
+          s:cac="0"
+          s:cnd=""
+          s:mvt=""
+          s:ph="content"
+          s:vbd="0"
+          s:vbdev="0"
+          s:vbl="0"
+          s:vbp="0"
+          s:vbqs="0"
+          s:vbu="0" />
+        <r
+          uid="{A041A45C-BC3A-4D17-B35C-069EB7F48BEA}"
+          p:before="r[@uid='{CE856FDF-018F-452A-B193-C98576BC9EC5}']"
+          s:ds=""
+          s:id="{FC2A5A10-6121-4626-86C8-863C66DE6482}"
+          s:par=""
+          s:ph="content">
+          <rls>
+            <ruleset>
+              <rule
+                uid="{00000000-0000-0000-0000-000000000000}"
+                s:name="Default">
+                <conditions>
+                  <condition
+                    uid="70E7B9C684864EE19148835FB60EAAD0"
+                    s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                </conditions>
+                <actions />
+              </rule>
+            </ruleset>
+          </rls>
+        </r>
+        <r
+          uid="{CE856FDF-018F-452A-B193-C98576BC9EC5}"
+          s:id="{769F8E32-79CB-472A-8A7C-D6631E60B286}"
+          s:ph="content" />
+      </d>
+      <d
+        id="{46D2F427-4CE5-4E1F-BA10-EF3636F43534}">
+        <r
+          uid="{A08C9132-DBD1-474F-A2CA-6CA26A4AA650}"
+          s:cac="0"
+          s:cnd=""
+          s:mvt=""
+          s:vbd="0"
+          s:vbdev="0"
+          s:vbl="0"
+          s:vbp="0"
+          s:vbqs="0"
+          s:vbu="0" />
+      </d>
+    </r>
+Languages:
+- Language: da
+  Fields:
+  - ID: "577f1689-7de4-4ad2-a15f-7fdc1759285f"
+    Hint: __Long description
+    Value: Elementet Hjem er som standard startpunktet for en hjemmeside.
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Velkommen til Sitecore.
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hjem
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20151021T212647:635810596073530509"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "75577384-3c97-45da-a847-81b00500e250"
+      Hint: Title
+      Value: Sitecore
+    - ID: "a60acd61-a6db-4182-8329-c957982cec74"
+      Hint: Text
+      Value: <p>Velkommen til Sitecore</p>
+- Language: "de-DE"
+  Fields:
+  - ID: "577f1689-7de4-4ad2-a15f-7fdc1759285f"
+    Hint: __Long description
+    Value: Das Home Item ist der vorgegebene Startpunkt einer Website.
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Willkommen bei Sitecore.
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Home
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20151021T213108:635810598685085116"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "75577384-3c97-45da-a847-81b00500e250"
+      Hint: Title
+      Value: Sitecore
+    - ID: "a60acd61-a6db-4182-8329-c957982cec74"
+      Hint: Text
+      Value: <p>Willkommen bei Sitecore</p>
+- Language: en
+  Fields:
+  - ID: "577f1689-7de4-4ad2-a15f-7fdc1759285f"
+    Hint: __Long description
+    Value: The Home item is the default starting point for a website.
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Welcome to Sitecore.
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20080407T135900
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "75577384-3c97-45da-a847-81b00500e250"
+      Hint: Title
+      Value: Sitecore
+    - ID: "a60acd61-a6db-4182-8329-c957982cec74"
+      Hint: Text
+      Value: |
+        
+        		<p>Welcome to Sitecore</p>
+        
+- Language: "ja-JP"
+  Fields:
+  - ID: "577f1689-7de4-4ad2-a15f-7fdc1759285f"
+    Hint: __Long description
+    Value: ホーム アイテムは Web サイトのデフォルトの開始場所です
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: サイトコア エクスペリエンス プラットフォーム
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ホーム
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20151021T213526:635810601264983663"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "75577384-3c97-45da-a847-81b00500e250"
+      Hint: Title
+      Value: サイトコア エクスペリエンス プラットフォーム
+    - ID: "a60acd61-a6db-4182-8329-c957982cec74"
+      Hint: Text
+      Value: <p>このたびはサイトコア製品をご利用いただき誠にありがとうございます。</p>

@@ -1,0 +1,17 @@
+﻿---
+ID: "c9078289-347a-42c0-a279-f46d836cfc79"
+Parent: "10271baf-04ff-4d34-b21b-eb322436293b"
+Template: "60acdb1e-1007-4ab2-9ffd-4a6d5e9704d1"
+Path: /sitecore/templates/Branches/GCP/Component personalization/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160509T174114
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

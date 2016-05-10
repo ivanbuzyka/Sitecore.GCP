@@ -1,0 +1,39 @@
+﻿---
+ID: "0fea547a-974b-4a51-ac8a-7b978fe561c9"
+Parent: "acf06e39-6725-49ee-92f8-00e90d4fe820"
+Template: "550b5cef-242c-463f-8ed5-983922a39863"
+Path: /sitecore/content/Site1/Home/Settings/Test2/Rules/Visited trigger page
+DB: master
+SharedFields:
+- ID: "5c29555e-6565-4984-a692-115b49c047a0"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{26EDFA90-0AD7-4959-9E56-0E8EEE07DB40}">
+        <conditions>
+          <condition
+            id="{BE334DF8-9A0F-4FF3-A6D8-C396EC713809}"
+            uid="97C0FA07032349A496DFF58E7A24677A"
+            PageId="{E62FB04F-B065-4B4A-AB1E-8F0DB151F274}" />
+        </conditions>
+        <actions>
+          <action
+            id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+            uid="92E679019D6E447D891990A17AA63C7E"
+            DataSource="{A198C632-C6A3-4F3B-8DA8-2138721781A8}" />
+        </actions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "062041c0-682e-4bd3-a778-85451ea11956"
+      Hint: Name
+      Value: Where trigger page has been visited within the session
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160509T150040
