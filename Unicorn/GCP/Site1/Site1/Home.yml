@@ -114,12 +114,12 @@ Languages:
       Value: sitecore\admin
     - ID: "75577384-3c97-45da-a847-81b00500e250"
       Hint: Title
-      Value: Sitecore
+      Value: Sitecore website 1
     - ID: "a60acd61-a6db-4182-8329-c957982cec74"
       Hint: Text
       Value: |
         
-        		<p>Welcome to Sitecore</p>
+        		<p>Welcome to Sitecore website 1</p>
         
 - Language: "ja-JP"
   Fields:

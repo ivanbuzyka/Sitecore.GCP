@@ -111,28 +111,12 @@
     <Compile Include="layouts\TeaserText.ascx.designer.cs">
       <DependentUpon>TeaserText.ascx</DependentUpon>
     </Compile>
-    <Compile Include="layouts\Test2.ascx.cs">
-      <DependentUpon>Test2.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="layouts\Test2.ascx.designer.cs">
-      <DependentUpon>Test2.ascx</DependentUpon>
-    </Compile>
-    <Compile Include="layouts\TestPers.ascx.cs">
-      <DependentUpon>TestPers.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="layouts\TestPers.ascx.designer.cs">
-      <DependentUpon>TestPers.ascx</DependentUpon>
-    </Compile>
     <Compile Include="Pipelines\InsertRenderings\CustomEvaluateConditions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="layouts\BannerWidget.ascx" />
     <Content Include="layouts\TeaserText.ascx" />
-    <Content Include="layouts\Test2.ascx" />
-    <Content Include="layouts\TestPers.ascx" />
     <Content Include="Web.config" />
     <Content Include="packages.config" />
     <Content Include="App_Config\Include\Rainbow.config" />
