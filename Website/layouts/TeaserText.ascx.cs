@@ -2,7 +2,7 @@
 {
     using System;
 
-    public partial class Test2 : System.Web.UI.UserControl
+    public partial class TeaserText : System.Web.UI.UserControl
     {
         private void Page_Load(object sender, EventArgs e)
         {

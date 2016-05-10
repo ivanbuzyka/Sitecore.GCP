@@ -96,6 +96,21 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="Constants\GcpTemplateIds.cs" />
+    <Compile Include="layouts\BannerWidget.ascx.cs">
+      <DependentUpon>BannerWidget.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\BannerWidget.ascx.designer.cs">
+      <DependentUpon>BannerWidget.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="layouts\TeaserText.ascx.cs">
+      <DependentUpon>TeaserText.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\TeaserText.ascx.designer.cs">
+      <DependentUpon>TeaserText.ascx</DependentUpon>
+    </Compile>
     <Compile Include="layouts\Test2.ascx.cs">
       <DependentUpon>Test2.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -114,6 +129,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="layouts\BannerWidget.ascx" />
+    <Content Include="layouts\TeaserText.ascx" />
     <Content Include="layouts\Test2.ascx" />
     <Content Include="layouts\TestPers.ascx" />
     <Content Include="Web.config" />
@@ -133,6 +150,7 @@
     <Content Include="App_Config\Include\zzzGCP\GCP.Pipelines.config" />
     <Content Include="App_Config\Include\zzzGCP\GCP.Unicorn.Configs.config" />
     <Content Include="App_Config\Include\zzzGCP\GCP.Unicorn.CustomSerializationFolder.config" />
+    <Content Include="App_Config\Include\zzzGCP\GCP.Sites.config" />
     <None Include="Properties\PublishProfiles\sc72metro1.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

@@ -1,14 +1,14 @@
 ﻿---
-ID: "a32d90ea-23c1-4dfa-bcf5-39466bcca2f3"
-Parent: "846cca62-db13-4d17-8bf2-312278552332"
-Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/content/Site1/Home/Settings
+ID: "33ae1051-fdd4-403f-a8d1-715c695b00f8"
+Parent: "b97a38fd-6828-4b85-9383-989c8ae85e93"
+Template: "b97a38fd-6828-4b85-9383-989c8ae85e93"
+Path: /sitecore/templates/GCP/GCP site settings folder/__Standard Values
 DB: master
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Type: TreelistEx
-  Value: 
+  Value: "{10271BAF-04FF-4D34-B21B-EB322436293B}"
 Languages:
 - Language: en
   Versions:
@@ -16,7 +16,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160509T164834
+      Value: 20160510T131049
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\admin

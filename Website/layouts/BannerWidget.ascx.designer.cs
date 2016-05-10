@@ -10,24 +10,15 @@
 namespace Website.layouts {
     
     
-    public partial class Test2 {
+    public partial class BannerWidget {
         
         /// <summary>
-        /// TitleCtrl control.
+        /// BannerCtrl control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Sitecore.Web.UI.WebControls.Text TitleCtrl;
-        
-        /// <summary>
-        /// TextCtrl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Sitecore.Web.UI.WebControls.Text TextCtrl;
+        protected global::Sitecore.Web.UI.WebControls.Image BannerCtrl;
     }
 }

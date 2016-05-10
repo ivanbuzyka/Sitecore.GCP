@@ -1,14 +1,14 @@
 ﻿---
-ID: "a32d90ea-23c1-4dfa-bcf5-39466bcca2f3"
-Parent: "846cca62-db13-4d17-8bf2-312278552332"
+ID: "904bf575-a476-45ff-ab58-f55f56e91eda"
+Parent: "fe1e3d18-9ec2-4a6c-a660-5b6b1e7ead7d"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/content/Site1/Home/Settings
+Path: /sitecore/content/Site1/Home/Data sources/Banners
 DB: master
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Type: TreelistEx
-  Value: 
+  Value: "{18BE0F7E-3C53-4124-9865-1C59E8A13120}"
 Languages:
 - Language: en
   Versions:
@@ -16,7 +16,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160509T164834
+      Value: 20160510T112557
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\admin

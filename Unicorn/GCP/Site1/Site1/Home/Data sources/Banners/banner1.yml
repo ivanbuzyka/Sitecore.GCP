@@ -1,0 +1,20 @@
+﻿---
+ID: "9727a657-914d-4898-a4d8-25e5db1f2f40"
+Parent: "904bf575-a476-45ff-ab58-f55f56e91eda"
+Template: "18be0f7e-3c53-4124-9865-1c59e8a13120"
+Path: /sitecore/content/Site1/Home/Data sources/Banners/banner1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T112635
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "9ab261bf-635f-41d6-be91-ab2e896d6623"
+      Hint: Banner image
+      Value: "<image mediapath=\"\" alt=\"iPad\" width=\"\" height=\"\" hspace=\"\" vspace=\"\" showineditor=\"\" usethumbnail=\"\" src=\"\" mediaid=\"{B84465A0-DF87-45E7-80B4-7013583089BA}\" />"

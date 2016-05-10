@@ -1,13 +1,13 @@
 ﻿---
-ID: "fc2a5a10-6121-4626-86c8-863c66de6482"
+ID: "f1387c5c-ad76-44aa-85a4-0dbe9d34ca0f"
 Parent: "e1312246-dcae-4a65-ab0a-6fe86b939ec2"
 Template: "0a98e368-cdb9-4e1e-927c-8e0c24a003fb"
-Path: /sitecore/layout/Sublayouts/GCP/TestPers
+Path: /sitecore/layout/Sublayouts/GCP/TeaserText
 DB: master
 SharedFields:
 - ID: "e42081b6-8a95-4a11-89ce-df70ed502f57"
   Hint: Path
-  Value: /layouts/TestPers.ascx
+  Value: /layouts/TeaserText.ascx
 Languages:
 - Language: en
   Versions:
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160509T141612
+      Value: 20160510T111905
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\admin

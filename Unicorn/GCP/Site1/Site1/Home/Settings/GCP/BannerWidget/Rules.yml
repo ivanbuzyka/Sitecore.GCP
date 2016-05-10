@@ -1,8 +1,8 @@
 ﻿---
-ID: "acf06e39-6725-49ee-92f8-00e90d4fe820"
-Parent: "9fb86307-356e-4d3e-b4c4-30da442bddde"
+ID: "0f41ec0f-7409-4f31-956a-b869e9ebfbdc"
+Parent: "2334bae3-cacc-44f3-affe-07312e43725d"
 Template: "8ea2cf67-4250-47a2-aeca-4f70fd200dc7"
-Path: /sitecore/content/Site1/Home/Settings/Test2/Rules
+Path: /sitecore/content/Site1/Home/Settings/GCP/BannerWidget/Rules
 DB: master
 BranchID: "10271baf-04ff-4d34-b21b-eb322436293b"
 SharedFields:
@@ -17,4 +17,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160509T174319
+      Value: 20160510T134339

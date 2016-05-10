@@ -26,79 +26,20 @@ SharedFields:
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
-          uid="{43222D12-08C9-453B-AE96-D406EBB95126}"
-          s:cac="0"
-          s:cnd=""
-          s:mvt=""
-          s:vbd="0"
-          s:vbdev="0"
-          s:vbl="0"
-          s:vbp="0"
-          s:vbqs="0"
-          s:vbu="0" />
-        <r
-          uid="{CF044AD9-0332-407A-ABDE-587214A2C808}"
-          s:cac="0"
-          s:cnd=""
-          s:mvt=""
-          s:vbd="0"
-          s:vbdev="0"
-          s:vbl="0"
-          s:vbp="0"
-          s:vbqs="0"
-          s:vbu="0" />
-        <r
-          uid="{B343725A-3A93-446E-A9C8-3A2CBD3DB489}"
-          s:cac="0"
-          s:cnd=""
-          s:mvt=""
-          s:ph="content"
-          s:vbd="0"
-          s:vbdev="0"
-          s:vbl="0"
-          s:vbp="0"
-          s:vbqs="0"
-          s:vbu="0" />
-        <r
-          uid="{A041A45C-BC3A-4D17-B35C-069EB7F48BEA}"
-          p:before="r[@uid='{CE856FDF-018F-452A-B193-C98576BC9EC5}']"
-          s:ds=""
-          s:id="{FC2A5A10-6121-4626-86C8-863C66DE6482}"
-          s:par=""
-          s:ph="content">
-          <rls>
-            <ruleset>
-              <rule
-                uid="{00000000-0000-0000-0000-000000000000}"
-                s:name="Default">
-                <conditions>
-                  <condition
-                    uid="70E7B9C684864EE19148835FB60EAAD0"
-                    s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
-                </conditions>
-                <actions />
-              </rule>
-            </ruleset>
-          </rls>
+          uid="{B343725A-3A93-446E-A9C8-3A2CBD3DB489}">
+          <p:d />
         </r>
         <r
-          uid="{CE856FDF-018F-452A-B193-C98576BC9EC5}"
-          s:id="{769F8E32-79CB-472A-8A7C-D6631E60B286}"
+          uid="{06DFCC7F-02AF-4FE1-87D7-748121CE5F39}"
+          p:before="r[@uid='{6AF47AB3-F0B2-4FD7-B2E8-33ED278A018E}']"
+          s:ds="{B56D0F68-F7A9-4396-9004-8935CEB80523}"
+          s:id="{F1387C5C-AD76-44AA-85A4-0DBE9D34CA0F}"
           s:ph="content" />
-      </d>
-      <d
-        id="{46D2F427-4CE5-4E1F-BA10-EF3636F43534}">
         <r
-          uid="{A08C9132-DBD1-474F-A2CA-6CA26A4AA650}"
-          s:cac="0"
-          s:cnd=""
-          s:mvt=""
-          s:vbd="0"
-          s:vbdev="0"
-          s:vbl="0"
-          s:vbp="0"
-          s:vbqs="0"
-          s:vbu="0" />
+          uid="{6AF47AB3-F0B2-4FD7-B2E8-33ED278A018E}"
+          s:ds="{9727A657-914D-4898-A4D8-25E5DB1F2F40}"
+          s:id="{F3E941B6-9C79-4F7B-8756-FCC9370D2230}"
+          s:ph="content" />
       </d>
     </r>
 Languages:

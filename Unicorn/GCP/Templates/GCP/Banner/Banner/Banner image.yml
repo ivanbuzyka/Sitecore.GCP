@@ -1,0 +1,18 @@
+﻿---
+ID: "9ab261bf-635f-41d6-be91-ab2e896d6623"
+Parent: "e09bb1fd-f0c0-4780-9e75-e2e99679c2c8"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/GCP/Banner/Banner/Banner image
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T112428

@@ -10,7 +10,7 @@
 namespace Website.layouts {
     
     
-    public partial class TestPers {
+    public partial class TeaserText {
         
         /// <summary>
         /// TitleCtrl control.

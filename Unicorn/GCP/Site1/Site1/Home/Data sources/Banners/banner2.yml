@@ -1,0 +1,20 @@
+﻿---
+ID: "ce68f0da-c4fa-46c1-83b1-7d216e0e0c7f"
+Parent: "904bf575-a476-45ff-ab58-f55f56e91eda"
+Template: "18be0f7e-3c53-4124-9865-1c59e8a13120"
+Path: /sitecore/content/Site1/Home/Data sources/Banners/banner2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T112635
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "9ab261bf-635f-41d6-be91-ab2e896d6623"
+      Hint: Banner image
+      Value: "<image mediapath=\"\" alt=\"Blackberry\" width=\"\" height=\"\" hspace=\"\" vspace=\"\" showineditor=\"\" usethumbnail=\"\" src=\"\" mediaid=\"{65AE88A6-BE9B-4022-9BFF-49E66E3DC6D3}\" />"
