@@ -1,0 +1,20 @@
+﻿---
+ID: "25479016-3814-4afc-8e05-04b11cbf269d"
+Parent: "60091db5-ca85-46eb-9a73-10524abbdf07"
+Template: "18be0f7e-3c53-4124-9865-1c59e8a13120"
+Path: /sitecore/content/Site2/Home/Data sources/Banners/banner2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T112635
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "9ab261bf-635f-41d6-be91-ab2e896d6623"
+      Hint: Banner image
+      Value: "<image mediapath=\"\" alt=\"HD TV\" width=\"\" height=\"\" hspace=\"\" vspace=\"\" showineditor=\"\" usethumbnail=\"\" src=\"\" mediaid=\"{DE305E7D-D74B-4ABB-BEA0-4A3A9D0137EF}\" />"

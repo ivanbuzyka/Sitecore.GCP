@@ -1,0 +1,38 @@
+﻿---
+ID: "f144ded2-1dbb-4659-a113-a4d572c9336d"
+Parent: "aa819ffb-26e7-41e9-9453-0c52e1807825"
+Template: "550b5cef-242c-463f-8ed5-983922a39863"
+Path: /sitecore/content/Site2/Home/Settings/GCP/TeaserText/Rules/Where Register goal is triggered
+DB: master
+SharedFields:
+- ID: "5c29555e-6565-4984-a692-115b49c047a0"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule>
+        <conditions>
+          <condition
+            id="{4D290FF3-1587-4FEE-AB37-88768766A9D9}"
+            uid="4E4F2925673A486F9C7BBB6C77508EB7"
+            GoalId="{8FFB183B-DA1A-4C74-8F3A-9729E9FCFF6A}" />
+        </conditions>
+        <actions>
+          <action
+            id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+            uid="{2F824BEF-AEC9-4C3C-83C7-52A136920022}"
+            DataSource="{A729304F-B758-4813-AF64-72F66153D3E5}" />
+        </actions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "062041c0-682e-4bd3-a778-85451ea11956"
+      Hint: Name
+      Value: Where trigger page is visited
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T134442

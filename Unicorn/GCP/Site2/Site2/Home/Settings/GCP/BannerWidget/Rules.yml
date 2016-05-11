@@ -1,0 +1,20 @@
+﻿---
+ID: "1b0c630d-e79d-42f0-996d-04ff113e5458"
+Parent: "654b69cb-bb13-4e57-9838-f198d55314b1"
+Template: "8ea2cf67-4250-47a2-aeca-4f70fd200dc7"
+Path: /sitecore/content/Site2/Home/Settings/GCP/BannerWidget/Rules
+DB: master
+BranchID: "10271baf-04ff-4d34-b21b-eb322436293b"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{550B5CEF-242C-463F-8ED5-983922A39863}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T134339

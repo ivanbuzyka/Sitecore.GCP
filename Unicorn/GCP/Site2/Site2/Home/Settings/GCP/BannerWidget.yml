@@ -1,0 +1,18 @@
+﻿---
+ID: "654b69cb-bb13-4e57-9838-f198d55314b1"
+Parent: "91b1fc92-ece2-4bc3-bf01-f9b13254fc9f"
+Template: "60acdb1e-1007-4ab2-9ffd-4a6d5e9704d1"
+Path: /sitecore/content/Site2/Home/Settings/GCP/BannerWidget
+DB: master
+BranchID: "10271baf-04ff-4d34-b21b-eb322436293b"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T134339
+    - ID: "6a29f44d-f43b-4221-aa7e-408f2c672026"
+      Hint: Component
+      Value: "{F3E941B6-9C79-4F7B-8756-FCC9370D2230}"
